@@ -34,8 +34,8 @@ foreach($results as $row)
         </div>
       <?php $cnt=$cnt+1;}} ?></div>
       <div class="col-md-3 footer-right">
-        <h3>Telesco</h3>
-        <p>This is a just mainly for practice, trying to beter my javascript and php skills, also thinking about redoing this with React ,willing to collaborate as i learn too</p>
+        <h3>Care and Pride</h3>
+        <p>We are ongoing a January admission.If you would like to join please contact 0717408069 or email us at mumtazsulshafi@gmail.com</p>
       </div>
       <div class="clearfix"> </div> 
     </div>
@@ -47,7 +47,7 @@ foreach($results as $row)
     <!-- container -->
     <div class="container">
       <div class="copyright-left">
-      <p>© <?php echo date('Y');?> Lorens Telesco </p>
+      <p>© <?php echo date('Y');?> Mumtaz/Ayaan </p>
       </div>
       <div class="copyright-right">
         <ul>

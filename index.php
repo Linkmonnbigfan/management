@@ -6,7 +6,7 @@ include('includes/dbconnection.php');
 <!doctype html>
 <html>
 <head>
-<title>Student  Management System || Home Page</title>
+<title>Care and Pride || Home Page</title>
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!--bootstrap-->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
@@ -58,7 +58,7 @@ include('includes/dbconnection.php');
        <div class="callbacks_container">
         <ul class="rslides" id="slider">
          <li>     
-          <h3>Student Management System</h3>      
+          <h3>Care and Pride International</h3>      
            <p>Registered Students can Login Here</p>             
           <div class="readmore">
           <a href="user/login.php">Student Login<i class="glyphicon glyphicon-menu-right"> </i></a>
